@@ -1,0 +1,2 @@
+# cmp
+say, hi
